@@ -1,0 +1,12 @@
+the input is: .--. .-. --- --. .-. .- -- -- .. -. --. and the result is:  PROGRAMMING
+the number of dashes is: 17 
+the number of dots is: 12
+this string contains 
+ A: 1   G: 2   I: 1   M: 2   N: 1   O: 1   P: 1   R: 2  
+           _____________________________________           
+the input is: - .. / -.- .... .- .-- / .- .- -.. and the result is:  TI KHAW AAD
+the number of dashes is: 9 
+the number of dots is: 13
+this string contains 
+ A: 3   D: 1   H: 1   I: 1   K: 1   T: 1   W: 1  
+           _____________________________________           
